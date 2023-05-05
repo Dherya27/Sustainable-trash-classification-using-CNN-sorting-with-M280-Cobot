@@ -10,6 +10,7 @@ Perception in Robotics(CSE 598), Group Project, Spring Semester 2023
 
 
 ## Project Architecture
+![Project Architecture](https://github.com/Dherya27/Sustainable-trash-classification-using-CNN-sorting-with-M280-Cobot/blob/main/Screenshot%202023-05-05%20at%2012.19.42%20AM.png)
 
 
 ## results
