@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'recyclable'
+}
+item {
+    id: 2
+    name: 'nonrecyclable'
+}

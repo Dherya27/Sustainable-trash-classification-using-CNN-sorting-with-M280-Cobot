@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/whitchurch/Project_RobotCyclops/ros2_ws/build/robot_vision",
+        "/home/whitchurch/Project_RobotCyclops/ros2_ws/install/robot_vision/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
