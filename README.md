@@ -14,6 +14,7 @@ Perception in Robotics(CSE 598), Group Project, Spring Semester 2023
 
 
 ## results
+![statistical results](https://github.com/Dherya27/Sustainable-trash-classification-using-CNN-sorting-with-M280-Cobot/blob/main/Screenshot%202023-05-05%20at%2012.20.31%20AM.png)
 
 
 
