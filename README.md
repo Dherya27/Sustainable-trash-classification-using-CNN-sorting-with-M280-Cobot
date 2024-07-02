@@ -1,9 +1,6 @@
 # Sustainable-trash-classification-using-CNN-sorting-with-M280-Cobot
 Perception in Robotics(CSE 598), Group Project, Spring Semester 2023
 
-## Project working Demo
-## (https://drive.google.com/drive/folders/1KTETSm4_a2Kn243DNw0l_MKf1M8GOM8B?usp=share_link)
-
 
 ## SetUp
 ![Experimental Setup](https://github.com/Dherya27/Sustainable-trash-classification-using-CNN-sorting-with-M280-Cobot/blob/main/Screenshot%202023-05-05%20at%2012.13.59%20AM.png)
